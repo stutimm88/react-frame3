@@ -1,0 +1,1251 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.frameChild,
+.frameInner,
+.frameItem,
+.rectangleDiv {
+  position: absolute;
+  top: 289.63rem;
+  left: 25.38rem;
+  background-color: #e2e625;
+  width: 64.31rem;
+  height: 0.88rem;
+}
+.frameInner,
+.frameItem,
+.rectangleDiv {
+  top: 360.44rem;
+}
+.frameInner,
+.rectangleDiv {
+  top: 22.94rem;
+  left: 23.69rem;
+  width: 66.88rem;
+  height: 1.25rem;
+}
+.rectangleDiv {
+  top: 73.06rem;
+  left: 9.56rem;
+  border-radius: 15px;
+  background-color: #6b7280;
+  backdrop-filter: blur(4px);
+  border: 0.5px solid #fff;
+  box-sizing: border-box;
+  width: 100.88rem;
+  height: 30.25rem;
+}
+.usdt1Icon,
+.xmr1Icon,
+.xrp1Icon {
+  position: absolute;
+  top: 48.44rem;
+  left: 74.88rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: cover;
+}
+.xmr1Icon,
+.xrp1Icon {
+  left: 70.75rem;
+}
+.xrp1Icon {
+  left: 66.88rem;
+  height: 4.97rem;
+}
+.bnb1Icon,
+.dash1Icon,
+.doge1Icon,
+.eth1Icon,
+.ltc1Icon,
+.trx1Icon {
+  position: absolute;
+  top: 48.44rem;
+  left: 63.06rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: cover;
+}
+.bnb1Icon,
+.dash1Icon,
+.eth1Icon,
+.ltc1Icon,
+.trx1Icon {
+  left: 59.5rem;
+}
+.bnb1Icon,
+.dash1Icon,
+.eth1Icon,
+.ltc1Icon {
+  left: 55.56rem;
+}
+.bnb1Icon,
+.eth1Icon,
+.ltc1Icon {
+  left: 52.25rem;
+}
+.bnb1Icon,
+.eth1Icon {
+  left: 48.31rem;
+  height: 4.97rem;
+}
+.eth1Icon {
+  left: 44.25rem;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.frameChild5,
+.frameChild6 {
+  position: absolute;
+  top: 5.19rem;
+  left: 42.81rem;
+  border-radius: 15px;
+  background-color: #ebe9e9;
+  width: 10.56rem;
+  height: 3.94rem;
+}
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.frameChild5,
+.frameChild6 {
+  left: 55.19rem;
+}
+.frameChild3,
+.frameChild4,
+.frameChild5,
+.frameChild6 {
+  left: 67.56rem;
+}
+.frameChild4,
+.frameChild5,
+.frameChild6 {
+  left: 80.25rem;
+}
+.frameChild5,
+.frameChild6 {
+  left: 95.31rem;
+  background-color: #000;
+  width: 15.31rem;
+}
+.frameChild6 {
+  top: 96.19rem;
+  left: 13.5rem;
+  border: 3px solid #000;
+  box-sizing: border-box;
+}
+.greenCoralModernFoodLogoIcon {
+  position: absolute;
+  top: 4.81rem;
+  left: 12.25rem;
+  width: 22.5rem;
+  height: 4.68rem;
+  object-fit: cover;
+}
+.lineDiv {
+  position: absolute;
+  top: 12.56rem;
+  left: -0.03rem;
+  border-top: 1px solid #000;
+  box-sizing: border-box;
+  width: 120.06rem;
+  height: 0.06rem;
+}
+.product {
+  position: absolute;
+  top: 5.75rem;
+  left: 43.88rem;
+}
+.about,
+.contact,
+.solution,
+.whitepaper {
+  position: absolute;
+  top: 5.75rem;
+  left: 56.44rem;
+}
+.about,
+.contact,
+.whitepaper {
+  left: 69.94rem;
+}
+.contact,
+.whitepaper {
+  left: 81.31rem;
+}
+.whitepaper {
+  left: 97.13rem;
+  color: #fff;
+}
+.frameChild7,
+.frameChild8 {
+  position: absolute;
+  top: 39rem;
+  left: 42.81rem;
+  border-radius: 15px;
+  background-color: #000;
+  width: 15.31rem;
+  height: 3.94rem;
+}
+.frameChild8 {
+  left: 62.25rem;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+.joinNow {
+  position: absolute;
+  top: 39.56rem;
+  left: 45.19rem;
+  color: #fff;
+}
+.learnMore,
+.whitepaper1 {
+  position: absolute;
+  top: 39.56rem;
+  left: 63.69rem;
+}
+.learnMore {
+  top: 96.75rem;
+  left: 15.31rem;
+  color: #fff;
+  -webkit-text-stroke: 1px #000;
+}
+.socialMiningPowered {
+  position: absolute;
+  top: 20.5rem;
+  left: 24.31rem;
+  font-size: 4.5rem;
+}
+.theGatewayTo {
+  margin: 0;
+}
+.theGatewayToContainer {
+  position: absolute;
+  top: 29.38rem;
+  left: 19.06rem;
+  white-space: pre-wrap;
+  text-align: center;
+}
+.btc1Icon,
+.lightBulb1Icon {
+  position: absolute;
+  top: 75.38rem;
+  left: 13.5rem;
+  width: 3.63rem;
+  height: 4.19rem;
+  object-fit: cover;
+}
+.btc1Icon {
+  top: 48.44rem;
+  left: 40.13rem;
+  width: 5rem;
+  height: 4.97rem;
+}
+.createANext,
+.discoverTheDecentralized {
+  position: absolute;
+  top: 56.63rem;
+  left: 33.13rem;
+  text-align: center;
+}
+.discoverTheDecentralized {
+  top: 60.44rem;
+  left: 22.69rem;
+  letter-spacing: 0.04em;
+  display: inline-block;
+  width: 72rem;
+}
+.develop,
+.execute,
+.think {
+  position: absolute;
+  top: 75.38rem;
+  left: 17.69rem;
+  font-size: 3.75rem;
+  color: #fff;
+  text-align: center;
+}
+.develop,
+.execute {
+  left: 33.56rem;
+}
+.execute {
+  left: 53rem;
+}
+.hammer1Icon,
+.thunder1Icon {
+  position: absolute;
+  top: 75.38rem;
+  left: 28.31rem;
+  width: 4.7rem;
+  height: 4.16rem;
+  object-fit: cover;
+}
+.thunder1Icon {
+  top: 75.06rem;
+  left: 47.88rem;
+  width: 5.45rem;
+  height: 5.49rem;
+}
+.thisIsA {
+  position: absolute;
+  top: 82.13rem;
+  left: 13.88rem;
+  display: inline-block;
+  color: #fff;
+  width: 60.13rem;
+  height: 8.38rem;
+}
+.everythingYouNeed {
+  position: absolute;
+  top: 288.06rem;
+  left: 25.38rem;
+  font-size: 3.13rem;
+  text-align: center;
+}
+.aDefinedPurposeContainer,
+.activeParticipationAndContainer {
+  position: absolute;
+  top: 305.13rem;
+  left: 18.38rem;
+  font-size: 1.88rem;
+}
+.activeParticipationAndContainer {
+  left: 67.69rem;
+}
+.frameChild13,
+.frameChild14 {
+  position: absolute;
+  top: 301rem;
+  left: 12.31rem;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 4.06rem;
+  height: 4.06rem;
+}
+.frameChild14 {
+  top: 300.88rem;
+  left: 61.19rem;
+}
+.activeEngagement,
+.clearVision {
+  position: absolute;
+  top: 301.63rem;
+  left: 18.38rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 12.5rem;
+}
+.activeEngagement {
+  top: 301.5rem;
+  left: 67.69rem;
+  width: 22rem;
+}
+.vision1Icon {
+  position: absolute;
+  top: 301.5rem;
+  left: 12.88rem;
+  width: 3.13rem;
+  height: 3.13rem;
+  object-fit: cover;
+}
+.gainingACompetitiveContainer,
+.providingAccessToContainer {
+  position: absolute;
+  top: 318.56rem;
+  left: 18.38rem;
+  font-size: 1.88rem;
+}
+.providingAccessToContainer {
+  left: 67.69rem;
+}
+.frameChild15,
+.frameChild16 {
+  position: absolute;
+  top: 314rem;
+  left: 12.31rem;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 4.06rem;
+  height: 4.06rem;
+}
+.frameChild16 {
+  left: 61.19rem;
+}
+.earlyAdvantage,
+.toolsAndResources {
+  position: absolute;
+  top: 315.06rem;
+  left: 18.38rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 18.94rem;
+}
+.toolsAndResources {
+  top: 314.94rem;
+  left: 67.69rem;
+  width: 22.75rem;
+}
+.enforcedStandardsOfContainer,
+.transparentAndWellDefinedContainer {
+  position: absolute;
+  top: 332rem;
+  left: 18.31rem;
+  font-size: 1.88rem;
+}
+.enforcedStandardsOfContainer {
+  left: 67.63rem;
+}
+.frameChild17,
+.frameChild18 {
+  position: absolute;
+  top: 327.44rem;
+  left: 12.25rem;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 4.06rem;
+  height: 4.06rem;
+}
+.frameChild18 {
+  left: 61.13rem;
+}
+.communityGuidelines,
+.daoGovernance {
+  position: absolute;
+  top: 328.5rem;
+  left: 18.31rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 23.56rem;
+}
+.communityGuidelines {
+  top: 328.38rem;
+  left: 67.63rem;
+  width: 25.81rem;
+}
+.consistentTrackingOfContainer,
+.recognizingAndRewardingContainer {
+  position: absolute;
+  top: 345.44rem;
+  left: 18.38rem;
+  font-size: 1.88rem;
+}
+.recognizingAndRewardingContainer {
+  left: 67.69rem;
+}
+.compare1Icon {
+  position: absolute;
+  top: 314.44rem;
+  left: 12.75rem;
+  width: 3.13rem;
+  height: 3.13rem;
+  object-fit: cover;
+}
+.frameChild19,
+.frameChild20 {
+  position: absolute;
+  top: 340.94rem;
+  left: 12.25rem;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 4.06rem;
+  height: 4.06rem;
+}
+.frameChild20 {
+  top: 340.88rem;
+  left: 61.19rem;
+}
+.communityRewards,
+.regularMonitoring {
+  position: absolute;
+  top: 341.94rem;
+  left: 18.38rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 21.69rem;
+}
+.communityRewards {
+  top: 341.81rem;
+  left: 67.69rem;
+  width: 22rem;
+}
+.legal1Icon {
+  position: absolute;
+  top: 327.88rem;
+  left: 12.75rem;
+  width: 3.13rem;
+  height: 3.13rem;
+  object-fit: cover;
+}
+.badge1Icon,
+.engagement1Icon,
+.research1Icon,
+.team1Icon,
+.tools1Icon {
+  position: absolute;
+  top: 341.56rem;
+  left: 12.81rem;
+  width: 3.13rem;
+  height: 3.13rem;
+  object-fit: cover;
+}
+.badge1Icon,
+.engagement1Icon,
+.team1Icon,
+.tools1Icon {
+  top: 301.25rem;
+  left: 61.63rem;
+}
+.badge1Icon,
+.team1Icon,
+.tools1Icon {
+  top: 314.44rem;
+  left: 61.69rem;
+}
+.badge1Icon,
+.team1Icon {
+  top: 327.88rem;
+}
+.badge1Icon {
+  top: 341.38rem;
+}
+.aSimplified4Step,
+.howItWorks {
+  position: absolute;
+  text-align: center;
+}
+.howItWorks {
+  top: 355.5rem;
+  left: 36.63rem;
+  font-size: 1.88rem;
+  display: inline-block;
+  width: 41.75rem;
+}
+.aSimplified4Step {
+  top: 358.63rem;
+  left: 24.5rem;
+  font-size: 3.13rem;
+}
+.aStreamlinedApproachContainer {
+  position: absolute;
+  top: 363.88rem;
+  left: 28.5rem;
+  font-family: Inter;
+  text-align: center;
+}
+.frameChild21 {
+  position: absolute;
+  top: 375.06rem;
+  left: 19.31rem;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 4.06rem;
+  height: 4.06rem;
+}
+.b,
+.planAndDefine {
+  position: absolute;
+  top: 380.13rem;
+  left: 20.31rem;
+  font-size: 1.88rem;
+  text-align: center;
+}
+.planAndDefine {
+  top: 384.69rem;
+  left: 14.31rem;
+  font-weight: 500;
+}
+.frameChild22 {
+  position: absolute;
+  top: 375rem;
+  left: 45.13rem;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 4.06rem;
+  height: 4.06rem;
+}
+.b1,
+.daoApproval {
+  position: absolute;
+  top: 380.13rem;
+  left: 46rem;
+  font-size: 1.88rem;
+  text-align: center;
+}
+.daoApproval {
+  top: 384.63rem;
+  left: 40.81rem;
+  font-weight: 500;
+}
+.frameChild23 {
+  position: absolute;
+  top: 375.06rem;
+  left: 70.94rem;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 4.06rem;
+  height: 4.06rem;
+}
+.b2,
+.engageTheCommunity {
+  position: absolute;
+  top: 380.13rem;
+  left: 71.81rem;
+  font-size: 1.88rem;
+  text-align: center;
+}
+.engageTheCommunity {
+  top: 384.69rem;
+  left: 62.5rem;
+  font-weight: 500;
+}
+.frameChild24 {
+  position: absolute;
+  top: 375rem;
+  left: 96.69rem;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 4.06rem;
+  height: 4.06rem;
+}
+.b3,
+.launchAndPromote {
+  position: absolute;
+  top: 380.13rem;
+  left: 97.56rem;
+  font-size: 1.88rem;
+  text-align: center;
+}
+.launchAndPromote {
+  top: 384.75rem;
+  left: 89.38rem;
+  font-weight: 500;
+}
+.createAProjectContainer {
+  position: absolute;
+  top: 389.25rem;
+  left: 13.38rem;
+  font-size: 1.56rem;
+  text-align: center;
+}
+.getApprovedToContainer,
+.launchYourProjectContainer,
+.utilizeOurCommunityContainer {
+  position: absolute;
+  top: 389.25rem;
+  left: 38.94rem;
+  font-size: 1.56rem;
+  text-align: center;
+}
+.launchYourProjectContainer,
+.utilizeOurCommunityContainer {
+  left: 62.44rem;
+}
+.launchYourProjectContainer {
+  top: 389.31rem;
+  left: 86.63rem;
+}
+.approve1Icon,
+.checkList1Icon,
+.group11,
+.mission1Icon {
+  position: absolute;
+  top: 375.56rem;
+  left: 19.81rem;
+  width: 3.13rem;
+  height: 3.13rem;
+  object-fit: cover;
+}
+.approve1Icon,
+.group11,
+.mission1Icon {
+  top: 375.31rem;
+  left: 45.63rem;
+}
+.group11,
+.mission1Icon {
+  top: 375.5rem;
+  left: 71.5rem;
+}
+.mission1Icon {
+  top: 375.56rem;
+  left: 97.25rem;
+}
+.groupChild,
+.groupItem {
+  position: absolute;
+  box-sizing: border-box;
+}
+.groupChild {
+  top: 37.94rem;
+  left: -0.03rem;
+  border-top: 1px solid #000;
+  width: 120.06rem;
+  height: 0.06rem;
+}
+.groupItem {
+  top: 0;
+  left: 9.38rem;
+  border-radius: 15px;
+  background-color: #6b7280;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000;
+  width: 101.38rem;
+  height: 18.38rem;
+}
+.aStreamlinedApproach1,
+.startYourSocial {
+  position: absolute;
+  top: 2.81rem;
+  left: 33.31rem;
+  font-size: 2.19rem;
+  color: #fff;
+  text-align: center;
+}
+.aStreamlinedApproach1 {
+  top: 7.63rem;
+  left: 14.38rem;
+  font-size: 1.56rem;
+  font-weight: 500;
+}
+.groupChild1,
+.groupInner {
+  position: absolute;
+  top: 11.88rem;
+  left: 52.38rem;
+  border-radius: 15px;
+  background-color: #000;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  width: 15.31rem;
+  height: 3.94rem;
+}
+.groupChild1 {
+  top: 22.63rem;
+  left: 51.44rem;
+  background-color: #fff;
+  border: 0.5px solid #000;
+  width: 17.19rem;
+}
+.followUsOn,
+.joinNow6 {
+  position: absolute;
+  font-size: 2.19rem;
+}
+.followUsOn {
+  top: 23.25rem;
+  left: 53.31rem;
+  font-weight: 300;
+  text-align: center;
+}
+.joinNow6 {
+  top: 12.44rem;
+  left: 55.19rem;
+  color: #fff;
+  -webkit-text-stroke: 1px #000;
+}
+.discord1Icon {
+  position: absolute;
+  top: 30.31rem;
+  left: 37.13rem;
+  width: 3.75rem;
+  height: 3.75rem;
+  object-fit: cover;
+}
+.facebook1Icon,
+.instagram1Icon,
+.telegram11,
+.twitter1Icon,
+.youtube1Icon {
+  position: absolute;
+  top: 30.38rem;
+  left: 45rem;
+  width: 3.75rem;
+  height: 3.75rem;
+  object-fit: cover;
+}
+.facebook1Icon,
+.instagram1Icon,
+.twitter1Icon,
+.youtube1Icon {
+  left: 53.94rem;
+}
+.facebook1Icon,
+.instagram1Icon,
+.youtube1Icon {
+  top: 30.13rem;
+  left: 62.38rem;
+}
+.instagram1Icon,
+.youtube1Icon {
+  top: 30.31rem;
+  left: 71.38rem;
+}
+.youtube1Icon {
+  left: 79.75rem;
+}
+.product1,
+.solution1 {
+  position: absolute;
+  top: 43.44rem;
+  left: 32.88rem;
+}
+.solution1 {
+  left: 43.56rem;
+}
+.about1,
+.contact1,
+.whitepaper4 {
+  position: absolute;
+  top: 43.44rem;
+  left: 54.56rem;
+}
+.contact1,
+.whitepaper4 {
+  left: 63.25rem;
+}
+.whitepaper4 {
+  left: 74.06rem;
+}
+.altcoinsmoneyAll {
+  position: absolute;
+  top: 52.06rem;
+  left: 42.25rem;
+  font-size: 1.56rem;
+}
+.lineParent {
+  position: absolute;
+  top: 401.63rem;
+  left: 0;
+  width: 120rem;
+  height: 54.06rem;
+  font-size: 1.88rem;
+}
+.frameChild25 {
+  position: absolute;
+  top: 171.69rem;
+  left: 12.63rem;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 4.06rem;
+  height: 4.06rem;
+}
+.check15,
+.check16,
+.check17,
+.check18,
+.puzzle11 {
+  position: absolute;
+  top: 188.88rem;
+  left: 12.69rem;
+  width: 1.88rem;
+  height: 1.88rem;
+  object-fit: cover;
+}
+.check16,
+.check17,
+.check18,
+.puzzle11 {
+  top: 191.88rem;
+}
+.check17,
+.check18,
+.puzzle11 {
+  top: 194.88rem;
+}
+.check18,
+.puzzle11 {
+  top: 197.88rem;
+  left: 12.63rem;
+}
+.puzzle11 {
+  top: 172.13rem;
+  left: 13.06rem;
+  width: 3.13rem;
+  height: 3.13rem;
+}
+.frameChild26 {
+  position: absolute;
+  top: 248.06rem;
+  left: 12.56rem;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 4.06rem;
+  height: 4.06rem;
+}
+.squares3Icon {
+  position: absolute;
+  top: 248.63rem;
+  left: 12.94rem;
+  width: 3.13rem;
+  height: 3.13rem;
+  object-fit: cover;
+}
+.check113,
+.check114,
+.check115,
+.check116 {
+  position: absolute;
+  top: 265.25rem;
+  left: 12.63rem;
+  width: 1.88rem;
+  height: 1.88rem;
+  object-fit: cover;
+}
+.check114,
+.check115,
+.check116 {
+  top: 268.25rem;
+}
+.check115,
+.check116 {
+  top: 271.25rem;
+}
+.check116 {
+  top: 274.25rem;
+}
+.frameChild27,
+.frameChild28 {
+  position: absolute;
+  top: 171.69rem;
+  left: 66.38rem;
+  border-radius: 15px;
+  background-color: #f6fbff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 0.5px solid #000;
+  box-sizing: border-box;
+  width: 42.19rem;
+  height: 29rem;
+}
+.frameChild28 {
+  top: 135.31rem;
+  left: 12.63rem;
+}
+.goal1Icon {
+  position: absolute;
+  top: 172.69rem;
+  left: 73.5rem;
+  width: 26.69rem;
+  height: 26.69rem;
+  object-fit: cover;
+}
+.frameChild29,
+.frameChild30 {
+  position: absolute;
+  top: 179.25rem;
+  left: 12.63rem;
+  background-color: #e2e625;
+  width: 45.94rem;
+  height: 0.44rem;
+}
+.frameChild30 {
+  top: 219.69rem;
+  left: 61.38rem;
+  width: 38.81rem;
+}
+.aCompleteSocial {
+  position: absolute;
+  top: 112.69rem;
+  left: 37.69rem;
+  font-size: 1.88rem;
+  text-align: center;
+  display: inline-block;
+  width: 41.75rem;
+}
+.miningForProject {
+  position: absolute;
+  top: 116.06rem;
+  left: 38.31rem;
+  font-size: 3.13rem;
+  text-align: center;
+}
+.harnessingThePower {
+  position: absolute;
+  top: 121.06rem;
+  left: 12.75rem;
+  font-family: Inter;
+  text-align: center;
+}
+.frameChild31,
+.frameChild32 {
+  position: absolute;
+  top: 142.5rem;
+  left: 61.5rem;
+  background-color: #e2e625;
+  width: 37.69rem;
+  height: 0.44rem;
+}
+.frameChild32 {
+  top: 135.06rem;
+  left: 61.44rem;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 4.06rem;
+  height: 4.06rem;
+}
+.empoweringTheCrypto {
+  position: absolute;
+  top: 141.06rem;
+  left: 61.38rem;
+  text-align: center;
+}
+.fuelingTheCryptoContainer {
+  position: absolute;
+  top: 145.63rem;
+  left: 61.5rem;
+  font-size: 1.88rem;
+}
+.squares1Icon {
+  position: absolute;
+  top: 135.63rem;
+  left: 61.81rem;
+  width: 3.13rem;
+  height: 3.13rem;
+  object-fit: cover;
+}
+.communitySentimentUnderstandContainer {
+  position: absolute;
+  top: 151.38rem;
+  left: 64.06rem;
+  font-size: 1.56rem;
+  line-height: 3.13rem;
+  display: inline-block;
+  width: 34.19rem;
+  height: 12.69rem;
+}
+.check11,
+.check12,
+.check13,
+.check14 {
+  position: absolute;
+  top: 152.25rem;
+  left: 61.5rem;
+  width: 1.88rem;
+  height: 1.88rem;
+  object-fit: cover;
+}
+.check12,
+.check13,
+.check14 {
+  top: 155.25rem;
+}
+.check13,
+.check14 {
+  top: 158.25rem;
+}
+.check14 {
+  top: 161.25rem;
+}
+.frameChild33,
+.frameChild34 {
+  position: absolute;
+  top: 211.94rem;
+  left: 11.63rem;
+  border-radius: 15px;
+  background-color: #f6fbff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 0.5px solid #000;
+  box-sizing: border-box;
+  width: 42.19rem;
+  height: 29rem;
+}
+.frameChild34 {
+  top: 248.31rem;
+  left: 66.38rem;
+}
+.contributeToFaster {
+  position: absolute;
+  top: 177.75rem;
+  left: 11.63rem;
+  text-align: center;
+}
+.incentivesToEngagingContainer {
+  position: absolute;
+  top: 182.25rem;
+  left: 12.69rem;
+  font-size: 1.88rem;
+}
+.contributeMoreToContainer {
+  position: absolute;
+  top: 188rem;
+  left: 15.25rem;
+  font-size: 1.56rem;
+  line-height: 3.13rem;
+  display: inline-block;
+  width: 34.19rem;
+  height: 12.69rem;
+}
+.frameChild35 {
+  position: absolute;
+  top: 212.25rem;
+  left: 61.5rem;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 4.06rem;
+  height: 4.06rem;
+}
+.unlockingSuccessWith {
+  position: absolute;
+  top: 218.25rem;
+  left: 60.56rem;
+  text-align: center;
+  display: inline-block;
+  width: 41.19rem;
+}
+.solvingChallengesAndContainer {
+  position: absolute;
+  top: 222.81rem;
+  left: 61.56rem;
+  font-size: 1.88rem;
+}
+.squares2Icon {
+  position: absolute;
+  top: 212.81rem;
+  left: 61.88rem;
+  width: 3.13rem;
+  height: 3.13rem;
+  object-fit: cover;
+}
+.guidelinesForQualityContainer {
+  position: absolute;
+  top: 228.25rem;
+  left: 64.56rem;
+  font-size: 1.56rem;
+  line-height: 3.13rem;
+  display: inline-block;
+  width: 34.19rem;
+  height: 12.69rem;
+}
+.check110,
+.check111,
+.check112,
+.check19 {
+  position: absolute;
+  top: 229.44rem;
+  left: 61.56rem;
+  width: 1.88rem;
+  height: 1.88rem;
+  object-fit: cover;
+}
+.check110,
+.check111,
+.check112 {
+  top: 232.44rem;
+}
+.check111,
+.check112 {
+  top: 235.44rem;
+}
+.check112 {
+  top: 238.44rem;
+}
+.frameChild36 {
+  position: absolute;
+  top: 255.5rem;
+  left: 12.44rem;
+  background-color: #e2e625;
+  width: 28.81rem;
+  height: 0.44rem;
+}
+.effectiveWorkManagement {
+  position: absolute;
+  top: 254.06rem;
+  left: 11.63rem;
+  display: inline-block;
+  width: 30.44rem;
+}
+.efficientlyManagingAllContainer {
+  position: absolute;
+  top: 258.63rem;
+  left: 12.63rem;
+  font-size: 1.88rem;
+}
+.socialManagementProjectContainer {
+  position: absolute;
+  top: 264.06rem;
+  left: 15.63rem;
+  font-size: 1.56rem;
+  line-height: 3.13rem;
+  display: inline-block;
+  width: 34.19rem;
+  height: 12.69rem;
+}
+.socialMedia1Icon,
+.time1Icon {
+  position: absolute;
+  top: 213.19rem;
+  left: 18.88rem;
+  width: 26rem;
+  height: 26.5rem;
+  object-fit: cover;
+}
+.time1Icon {
+  top: 250.63rem;
+  left: 77.69rem;
+  width: 24.94rem;
+  height: 24.94rem;
+}
+.network1Icon,
+.researchAndDevelopment21 {
+  position: absolute;
+  top: 76rem;
+  left: 81.88rem;
+  width: 25.63rem;
+  height: 24.81rem;
+  object-fit: cover;
+}
+.network1Icon {
+  top: 137.5rem;
+  left: 21.44rem;
+  width: 24.56rem;
+  height: 24.56rem;
+}
+.rectangleParent {
+  position: relative;
+  background-color: #f6fbff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 100%;
+  height: 458.56rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 2.19rem;
+  color: #000;
+  font-family: "Space Grotesk";
+}
+
+
+  
